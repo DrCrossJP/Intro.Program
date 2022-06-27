@@ -1,12 +1,12 @@
 Public class Main {
 
     public static void main(String[] args) {
-       var numero = 5;
+       var numeroIf = 5;
 
-       if (numero > 0) {
+       if (numeroIf > 0) {
            System.out.println("es positivo");
 
-       } else if (numero < 0) {
+       } else if (numeroIf < 0) {
            System.out.println("es negativo");
 
        } else {
